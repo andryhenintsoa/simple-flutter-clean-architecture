@@ -2,15 +2,19 @@
 
 Flutter project with Riverpod and Clean architecture
 
-## Getting Started
+**FVM :**
+	Install fvm [here](https://fvm.app/docs/getting_started/installation)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+    fvm config
+	fvm use stable
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ **Architecture :** "*Clean architecture*"
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ **State management :** "*Riverpod*"
+
+ 
+
+![home](https://github.com/andryhenintsoa/simple-flutter-clean-architecture/blob/main/screens/screen.png)
+
+![dialog](https://github.com/andryhenintsoa/simple-flutter-clean-architecture/blob/main/screens/dialog.png)
