@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Barre de chocolat",
+      "description": "Une délicieuse barre de chocolat au lait.",
+      "price": 2.99,
+      "category": {
+        "id": "101",
+        "name": "Chocolaterie"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Chips",
+      "description": "Des chips croustillantes pour une pause gourmande.",
+      "price": 1.49,
+      "category": {
+        "id": "102",
+        "name": "Snacks salés"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Bonbons acidulés",
+      "description": "Des bonbons acidulés pour une explosion de saveurs.",
+      "price": 0.99,
+      "category": {
+        "id": "103",
+        "name": "Confiserie"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Bouteille d'eau",
+      "price": 1.00,
+      "category": {
+        "id": "104",
+        "name": "Boissons"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Muffin aux myrtilles",
+      "description": "Un délicieux muffin aux myrtilles pour une collation sucrée.",
+      "price": 2.49,
+      "category": {
+        "id": "105",
+        "name": "Pâtisserie"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Barre énergétique",
+      "description": "Une barre énergétique pour un regain d'énergie rapide.",
+      "price": 1.79,
+      "category": {
+        "id": "106",
+        "name": "Aliments énergétiques"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Gâteau au fromage",
+      "description": "Un gâteau au fromage crémeux pour les amateurs de dessert.",
+      "price": 3.99,
+      "category": {
+        "id": "105",
+        "name": "Pâtisserie"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Croustilles de maïs soufflé",
+      "description": "Des croustilles de maïs soufflé pour une collation légère.",
+      "price": 1.29,
+      "category": {
+        "id": "102",
+        "name": "Snacks salés"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Eau pétillante",
+      "price": 1.20,
+      "category": {
+        "id": "104",
+        "name": "Boissons"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Croissant",
+      "description": "Un croissant feuilleté et délicieux pour le petit-déjeuner.",
+      "price": 1.99,
+      "category": {
+        "id": "105",
+        "name": "Pâtisserie"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Noix mélangées",
+      "description": "Un mélange de noix croquantes pour une collation saine.",
+      "price": 2.79,
+      "category": {
+        "id": "106",
+        "name": "Aliments énergétiques"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Barre de céréales",
+      "description": "Une barre de céréales nutritive pour un en-cas rapide.",
+      "price": 1.49,
+      "category": {
+        "id": "106",
+        "name": "Aliments énergétiques"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Bonbons au caramel",
+      "description": "Des bonbons au caramel fondant pour les amateurs de sucré.",
+      "price": 0.99,
+      "category": {
+        "id": "103",
+        "name": "Confiserie"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Thé glacé",
+      "price": 1.50,
+      "category": {
+        "id": "104",
+        "name": "Boissons"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Petits gâteaux assortis",
+      "description": "Un assortiment de petits gâteaux pour satisfaire vos envies.",
+      "price": 3.49,
+      "category": {
+        "id": "105",
+        "name": "Pâtisserie"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Pop-corn au beurre",
+      "description": "Du pop-corn au beurre pour une séance cinéma à la maison.",
+      "price": 1.99,
+      "category": {
+        "id": "102",
+        "name": "Snacks salés"
+      }
+    },
+    {
+      "id": "17",
+      "name": "Boisson gazeuse",
+      "price": 1.25,
+      "category": {
+        "id": "104",
+        "name": "Boissons"
+      }
+    },
+    {
+      "id": "18",
+      "name": "Cookie aux pépites de chocolat",
+      "description": "Un cookie aux pépites de chocolat pour les amateurs de douceurs.",
+      "price": 1.79,
+      "category": {
+        "id": "105",
+        "name": "Pâtisserie"
+      }
+    },
+    {
+      "id": "19",
+      "name": "Noix de cajou grillées",
+      "description": "Des noix de cajou grillées pour une collation croquante.",
+      "price": 2.99,
+      "category": {
+        "id": "106",
+        "name": "Aliments énergétiques"
+      }
+    },
+    {
+      "id": "20",
+      "name": "Croustilles de pommes",
+      "description": "Des croustilles de pommes séchées pour une alternative saine.",
+      "price": 1.49,
+      "category": {
+        "id": "102",
+        "name": "Snacks salés"
+      }
+    }
+  ]
+}
