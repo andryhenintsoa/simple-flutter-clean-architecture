@@ -31,7 +31,7 @@ class ProductRepositoryImp extends ProductRepository {
     } catch (e) {
       return const FailureResponse(
         UnknownFailure(
-          message: "unknownException",
+          message: "unknownException fetch",
         ),
       );
     }

@@ -21,6 +21,15 @@ class ProductModel extends ProductEntity {
   }
 
   Map<String, dynamic> toJson() {
-    return {"id": id, "name": name, "description": description, "price": price, "category": category.id};
+    return {
+      "id": id,
+      "name": name,
+      "description": description,
+      "price": price,
+      "category": {
+        "id": category.id,
+        "name": category.name,
+      },
+    };
   }
 }
