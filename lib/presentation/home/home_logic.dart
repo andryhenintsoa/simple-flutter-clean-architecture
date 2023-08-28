@@ -37,7 +37,7 @@ class HomeStateNotifier extends StateNotifier<HomeState> {
 
   void reduceItemOnCart(ProductEntity product) {
     final cart = Map.of(state.cart);
-    final newQuantity = cart[product.id]! - 1;
+    final newQuantity = (cart[product.id] ?? 0) - 1;
     setProductQuantity(product, newQuantity);
   }
 

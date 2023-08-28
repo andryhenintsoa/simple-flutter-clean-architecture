@@ -37,6 +37,7 @@ class HomeState extends Equatable {
   List<Object?> get props => [
         status,
         products,
+        cart,
         failure,
       ];
 
